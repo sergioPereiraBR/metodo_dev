@@ -1,9 +1,4 @@
 {
     "python-envs.defaultEnvManager": "ms-python.python:poetry",
     "python-envs.defaultPackageManager": "ms-python.python:poetry",
-    "vscode-reborn-ai.provider": "openrouter",
-    "vscode-reborn-ai.openAI.apiBaseUrl": "https://openrouter.ai/api/v1",
-    "vscode-reborn-ai.openAI.apiKey": "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",
-    "vscode-reborn-ai.openAI.model": "moonshotai/kimi-k2-6",
-    "vscode-reborn-ai.openAI.temperature": 0.7
 }
