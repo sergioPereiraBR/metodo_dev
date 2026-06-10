@@ -40,3 +40,5 @@ setup
   "openai.model": "moonshotai/kimi-k2:free"
 }
 ```
+
+Path Continue C:\Users\sergi\.vscode\extensions\continue.continue-1.2.22-win32-x64\continue_tutorial.py
